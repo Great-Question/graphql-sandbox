@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Great-Question/graphql-sandbox#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
     "graphql": "^15.7.0",
     "pg": "^8.7.1"
   },
